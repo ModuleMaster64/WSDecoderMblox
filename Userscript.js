@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WebSocket Decoder for MBlox (Universal Logger)
 // @namespace    https://miniblox.io
-// @version      1.0
+// @version      1.2
 // @description  Logs and decodes WebSocket packets (text, JSON, pipe, binary)
 // @author       ModuleMaster64
 // @match        https://miniblox.io
