@@ -1,3 +1,3 @@
-This decodes websocket packets sent and recived from miniblox!
+This decodes the websocket packets sent and recived from miniblox!
 
-quite simple
+quite simple :D
